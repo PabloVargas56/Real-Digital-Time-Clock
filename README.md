@@ -4,7 +4,7 @@ A real-time digital clock built with HTML, CSS, and JavaScript that dynamically 
 
 ## 🚀 Demo
 You can view the live demo here:
-👉 https://tu-usuario.github.io/real-time-digital-clock/
+👉 https://pablovargas56.github.io/Real-Digital-Time-Clock/
 
 ## 🛠️ Technologies Used
 - HTML5
