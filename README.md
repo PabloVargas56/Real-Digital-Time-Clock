@@ -16,5 +16,3 @@ You can view the live demo here:
 - Clean and minimal design
 - Responsive layout
 - No external libraries required
-
-## 📁 Project Structure
