@@ -2,10 +2,6 @@
 
 A real-time digital clock built with HTML, CSS, and JavaScript that dynamically updates every second.
 
-## 🚀 Demo
-You can view the live demo here:
-👉 https://pablovargas56.github.io/Real-Digital-Time-Clock/
-
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
